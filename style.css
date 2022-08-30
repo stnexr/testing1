@@ -1,0 +1,13 @@
+* {
+    margin: o;
+    padding: 0;
+}
+
+#container {
+    display: flex;
+    width: 50px;
+}
+
+#container iframe {
+    width: 20em;
+}
